@@ -8266,6 +8266,11 @@ postcss@^7, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, po
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
+postprocessing@^6.17.1:
+  version "6.17.1"
+  resolved "https://registry.yarnpkg.com/postprocessing/-/postprocessing-6.17.1.tgz#66f937ce743c98dbc29638bc8fb6c74041e9df2d"
+  integrity sha512-Q8bjFCVgn1ZuG7UoHrjvp6xyKIbOtZOlmJPw3NpIgyLNHva5Bn0iH1OfeHEqKh/o45RLA9rGdxLMAkCrKe7uXQ==
+
 prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
@@ -9910,6 +9915,11 @@ text-table@0.2.0, text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
+
+three@^0.119.1:
+  version "0.119.1"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.119.1.tgz#9d979a082c4cd9622af8e3498a8dfa026a619332"
+  integrity sha512-GHyh/RiUfQ5VTiWIVRRTANYoXc1PFB1y+jDVRTb649nif1uX1F06PT1TKU3k2+F/MN4UJ3PWvQB53fY2OqKqKw==
 
 throat@^4.0.0:
   version "4.1.0"
